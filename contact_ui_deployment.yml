@@ -16,7 +16,7 @@ spec:
   spec:
     containers:
     - name: contactuicontainer
-      image: ashokit/uiapp
+      image: prasaddamala/uiapp
       ports:
       - containerPort: 80
 ---
